@@ -42,6 +42,49 @@ PID yang terbesar = 35
 
 
 
+2.Modifikasi program prog.sh
 
-  
 
+a.membuat script menggunakan vi
+
+
+![Screenshot 2025-04-13 112909](https://github.com/user-attachments/assets/4167bcd3-898a-4c46-8deb-f4ec77c96327)
+
+
+b.menjalankan perintah
+
+menggunakan ./prog.sh
+
+  ![Screenshot 2025-04-13 113421](https://github.com/user-attachments/assets/3bc6b45a-00b1-42f4-87fa-86d558790a54)
+
+setelah itu mengunnakan perintah kill
+contoh kill -1 [PID]
+
+hasilnya proses berhenti
+
+
+![Screenshot 2025-04-13 113442](https://github.com/user-attachments/assets/6f9a6d81-3ac7-4798-bdaf-08334d5da820)
+
+
+
+
+3. Modifikasi program
+
+   setelah membuat menggunakan vi maka terbuatlah file
+
+   
+![Screenshot 2025-04-13 115141](https://github.com/user-attachments/assets/8808f7ee-641e-41ae-a7da-dfcfd4bddb64)
+
+
+setalah itu jalankan program dengan ./myjob.sh&
+terus kill PID
+
+setelah di kill program tersebut terhapus
+
+
+![Screenshot 2025-04-13 115320](https://github.com/user-attachments/assets/28de04c9-5ad6-4b3a-84c0-aa0143c28426)
+
+hasil
+
+
+![Screenshot 2025-04-13 115141](https://github.com/user-attachments/assets/bf198a98-7e96-4ed5-9d0f-33e3f12e283c)
